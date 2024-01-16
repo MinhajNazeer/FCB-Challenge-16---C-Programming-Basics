@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705376720 source:c:\users\insha\onedrive\desktop\slasscom\future career bridge challenges\software development  challenges\challenge 16 - c++ programming basics\w3school_c++\studentrank-classrank\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<limits>
+
